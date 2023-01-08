@@ -1,0 +1,9 @@
+SAVINGS1002|Deposit RM500| on Monday, 13 December 2021 at 13:24:36|The current balance is now 800
+SAVINGS1002|Withdrawal RM300| on Monday, 13 December 2021 at 13:27:06|The current balance is now 500
+SAVINGS1002|Deposit RM100| on Monday, 13 December 2021 at 13:29:08|The current balance is now 600
+SAVINGS1006|Deposit RM300| on Monday, 13 December 2021 at 13:57:57|The current balance is now 400
+SAVINGS1006|Deposit RM300| on Monday, 13 December 2021 at 14:02:14|The current balance is now 700
+SAVINGS1006|Deposit RM300| on Monday, 13 December 2021 at 14:03:01|The current balance is now 1000
+SAVINGS1006|Withdrawal RM500| on Monday, 13 December 2021 at 14:03:57|The current balance is now 500
+SAVINGS1006|Transfer RM300| on Monday, 13 December 2021 at 14:12:55|The current balance is now 200
+SAVINGS1002|have successfully receive RM300| on Monday, 13 December 2021 at 14:12:55|The current balance is now 1100
