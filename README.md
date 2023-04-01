@@ -29,3 +29,6 @@ The program submitted should compile and be executed without errors. Besides, va
 
 
 # How To
+Simply put all of the files in the same folder, and dont forget to change the directory inside the python file. 
+
+PDF File is only documentation (Not necessary to download). The program would still run without the PDF
